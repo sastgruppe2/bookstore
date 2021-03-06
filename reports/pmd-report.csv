@@ -1,0 +1,2 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","","/app/src/main/java/Bookstore.java","3","40","Avoid instantiating new objects inside loops","Performance","AvoidInstantiatingObjectsInLoops"
