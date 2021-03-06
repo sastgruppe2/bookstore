@@ -38,4 +38,9 @@
         </plugins>
         <finalName>bookstore</finalName>
     </build>
+    <properties>
+      <sonar.projectKey>sastgruppe2_bookstore</sonar.projectKey>
+      <sonar.organization>sastgruppe2</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
 </project>
